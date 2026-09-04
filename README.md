@@ -1,4 +1,5 @@
-# Job Portal
+# Career Connect
+
 
 A full-stack career connect built using React.js, Supabase,
 Clerk, Tailwind CSS and Shadcn UI.

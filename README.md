@@ -1,6 +1,6 @@
 # Job Portal
 
-A full-stack job portal built using React.js, Supabase,
+A full-stack career connect built using React.js, Supabase,
 Clerk, Tailwind CSS and Shadcn UI.
 
 ## Features
